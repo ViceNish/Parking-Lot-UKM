@@ -1,0 +1,8 @@
+Name : Abu
+ID : KC098
+Password : pjdrudf
+Job : Staff
+Type : Car 
+Plate No : VWYD67
+Parking At : FTSM
+Park : Lot 5

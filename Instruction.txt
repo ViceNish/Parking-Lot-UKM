@@ -1,0 +1,3 @@
+NOTE : 
+-Make sure 'savefile' folder placed in 'C:\'
+-TQ

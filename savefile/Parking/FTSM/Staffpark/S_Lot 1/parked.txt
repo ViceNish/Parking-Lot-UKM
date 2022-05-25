@@ -1,0 +1,8 @@
+Name : yui
+ID : czfvxfc
+Password : svdfgvnb
+Job : Staff
+Type : Car 
+Plate No : dasfvgbh
+Parking At : FTSM
+Park : S_Lot 1
